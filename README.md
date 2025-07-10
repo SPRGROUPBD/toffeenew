@@ -126,7 +126,7 @@ print("✓ Response From Toffee Server : "+request_server.text)
 
 
 # 🚬Credits
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=true&width=435&lines=Made+By+SPRGROUPIT)](https://git.io/typing-svg)
 
 
 
